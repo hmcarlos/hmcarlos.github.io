@@ -1,0 +1,33 @@
+
+body{
+  background-color:#3d6dcc; 
+  color:white; 
+  font-family:monospace; 
+  font-size:1.5em; 
+  margin-left: 5%; 
+  margin-right:5%
+  }
+
+
+
+a{
+  color:white
+  }
+
+  
+  
+img{
+  max-width: 300px;
+  }
+
+
+strong{
+  color:black
+  }
+
+
+
+hr{
+  border: 0;
+  border-top: 2px dashed white;
+  }
